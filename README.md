@@ -16,12 +16,12 @@ The full documentation can be found at the [project wiki](https://github.com/abd
 
 ### Observers
 
-For a full list of Observer methods, check [Observer Methods](https://github.com/abdmt-toolkit/abdmt/wiki/2.-Observer-Methods) in the project wiki.
+For a full list of Observer methods, check [Observer Methods](https://github.com/abdmt-toolkit/abdmt/wiki/2.-Observer-Methods).
 
 ### Ability Modeler
 
-For a full list of Ability Modeler methods, check [Ability Modeler Methods](https://github.com/abdmt-toolkit/abdmt/wiki/3.-Ability-Modeler-Methods) in the project wiki.
+For a full list of Ability Modeler methods, check [Ability Modeler Methods](https://github.com/abdmt-toolkit/abdmt/wiki/3.-Ability-Modeler-Methods).
 
 ### UI Adapter
 
-For a full list of UI Adapter methods, check [UI Adapter Methods](https://github.com/abdmt-toolkit/abdmt/wiki/4.-UI-Adapter-Methods) in the project wiki.
+For a full list of UI Adapter methods, check [UI Adapter Methods](https://github.com/abdmt-toolkit/abdmt/wiki/4.-UI-Adapter-Methods).
