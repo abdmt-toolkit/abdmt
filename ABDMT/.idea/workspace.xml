@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="be154cc3-1db3-4f6a-a7be-2a8a25d1ceb8" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../scaffold-code/tutorial-app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scaffold-code/tutorial-app/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scaffold-code/tutorial-app/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scaffold-code/tutorial-app/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scaffold-code/tutorial-app/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scaffold-code/tutorial-app/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scaffold-code/tutorial-app/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scaffold-code/tutorial-app/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scaffold-code/tutorial-app/app/ABDMT/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scaffold-code/tutorial-app/app/ABDMT/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scaffold-code/tutorial-app/app/ABDMT/consumer-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scaffold-code/tutorial-app/app/ABDMT/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scaffold-code/tutorial-app/app/ABDMT/src/androidTest/java/com/judykong/abdmt/ExampleInstrumentedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scaffold-code/tutorial-app/app/ABDMT/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scaffold-code/tutorial-app/app/ABDMT/src/main/java/com/judykong/abdmt/ABDMT.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scaffold-code/tutorial-app/app/ABDMT/src/main/java/com/judykong/abdmt/ABDMTActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scaffold-code/tutorial-app/app/ABDMT/src/main/java/com/judykong/abdmt/AbdObserver/AbdObserver.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scaffold-code/tutorial-app/app/ABDMT/src/main/java/com/judykong/abdmt/AbdObserver/Activity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scaffold-code/tutorial-app/app/ABDMT/src/main/java/com/judykong/abdmt/AbdObserver/ActivityEnum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scaffold-code/tutorial-app/app/ABDMT/src/main/java/com/judykong/abdmt/AbdObserver/ActivityObserver.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scaffold-code/tutorial-app/app/ABDMT/src/main/java/com/judykong/abdmt/AbdObserver/GestureObserver.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scaffold-code/tutorial-app/app/ABDMT/src/main/java/com/judykong/abdmt/AbdObserver/ObserverFlags.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scaffold-code/tutorial-app/app/ABDMT/src/main/java/com/judykong/abdmt/AbdObserver/TimePoint.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scaffold-code/tutorial-app/app/ABDMT/src/main/java/com/judykong/abdmt/AbdObserver/TouchObserver.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scaffold-code/tutorial-app/app/ABDMT/src/main/java/com/judykong/abdmt/AbilityModeler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scaffold-code/tutorial-app/app/ABDMT/src/main/java/com/judykong/abdmt/ActivityTransitionBroadcastReceiver.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scaffold-code/tutorial-app/app/ABDMT/src/main/java/com/judykong/abdmt/Transformation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scaffold-code/tutorial-app/app/ABDMT/src/main/java/com/judykong/abdmt/TransformationItem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scaffold-code/tutorial-app/app/ABDMT/src/main/java/com/judykong/abdmt/TransformationResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scaffold-code/tutorial-app/app/ABDMT/src/main/java/com/judykong/abdmt/UIAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scaffold-code/tutorial-app/app/ABDMT/src/test/java/com/judykong/abdmt/ExampleUnitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scaffold-code/tutorial-app/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scaffold-code/tutorial-app/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scaffold-code/tutorial-app/app/src/androidTest/java/com/example/ability_aware_application/ExampleInstrumentedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scaffold-code/tutorial-app/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scaffold-code/tutorial-app/app/src/main/java/com/example/ability_aware_application/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scaffold-code/tutorial-app/app/src/main/java/com/example/ability_aware_application/SecondActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scaffold-code/tutorial-app/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scaffold-code/tutorial-app/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scaffold-code/tutorial-app/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scaffold-code/tutorial-app/app/src/main/res/layout/activity_second.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scaffold-code/tutorial-app/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scaffold-code/tutorial-app/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scaffold-code/tutorial-app/app/src/main/res/mipmap-hdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scaffold-code/tutorial-app/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scaffold-code/tutorial-app/app/src/main/res/mipmap-mdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scaffold-code/tutorial-app/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scaffold-code/tutorial-app/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scaffold-code/tutorial-app/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scaffold-code/tutorial-app/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scaffold-code/tutorial-app/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scaffold-code/tutorial-app/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scaffold-code/tutorial-app/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scaffold-code/tutorial-app/app/src/main/res/values-night/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scaffold-code/tutorial-app/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scaffold-code/tutorial-app/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scaffold-code/tutorial-app/app/src/main/res/values/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scaffold-code/tutorial-app/app/src/main/res/xml/backup_rules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scaffold-code/tutorial-app/app/src/main/res/xml/data_extraction_rules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scaffold-code/tutorial-app/app/src/test/java/com/example/ability_aware_application/ExampleUnitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scaffold-code/tutorial-app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scaffold-code/tutorial-app/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scaffold-code/tutorial-app/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scaffold-code/tutorial-app/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scaffold-code/tutorial-app/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scaffold-code/tutorial-app/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scaffold-code/tutorial-app/settings.gradle" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2LRlxyJpGNYByo5gkeCy7TWhTKy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
+    <property name="cidr.known.project.marker" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="be154cc3-1db3-4f6a-a7be-2a8a25d1ceb8" name="Changes" comment="" />
+      <created>1675842026261</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1675842026261</updated>
+    </task>
+    <servers />
+  </component>
+</project>

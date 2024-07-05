@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.judykong.abdmt">
+
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="com.google.android.gms.permission.ACTIVITY_RECOGNITION" />
+    <uses-permission android:name="android.permission.ACTIVITY_RECOGNITION" />
+    <uses-permission android:name="android.permission.WRITE_SETTINGS"
+        tools:ignore="ProtectedPermissions" />
+    <application>
+    </application>
+</manifest>
